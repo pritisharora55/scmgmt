@@ -1,0 +1,16 @@
+c:\users\priti\documents\visual studio 2010\Projects\sportsclubmgmt\sportsclubmgmt\obj\x86\Debug\sportsclubmgmt.Form1.resources
+c:\users\priti\documents\visual studio 2010\Projects\sportsclubmgmt\sportsclubmgmt\obj\x86\Debug\sportsclubmgmt.Properties.Resources.resources
+c:\users\priti\documents\visual studio 2010\Projects\sportsclubmgmt\sportsclubmgmt\obj\x86\Debug\sportsclubmgmt.csproj.GenerateResource.Cache
+c:\users\priti\documents\visual studio 2010\Projects\sportsclubmgmt\sportsclubmgmt\bin\Debug\sportsclubmgmt.pdb
+c:\users\priti\documents\visual studio 2010\Projects\sportsclubmgmt\sportsclubmgmt\obj\x86\Debug\sportsclubmgmt.exe
+c:\users\priti\documents\visual studio 2010\Projects\sportsclubmgmt\sportsclubmgmt\obj\x86\Debug\sportsclubmgmt.pdb
+c:\users\priti\documents\visual studio 2010\Projects\sportsclubmgmt\sportsclubmgmt\bin\Debug\sportsclubmgmt.exe.config
+c:\users\priti\documents\visual studio 2010\Projects\sportsclubmgmt\sportsclubmgmt\obj\x86\Debug\sportsclubmgmt.Form2.resources
+C:\Users\priti\Documents\Visual Studio 2010\Projects\sportsclubmgmt\sportsclubmgmt\obj\x86\Debug\sportsclubmgmt.csprojResolveAssemblyReference.cache
+C:\Users\priti\Documents\Visual Studio 2010\Projects\sportsclubmgmt\sportsclubmgmt\obj\x86\Debug\sportsclubmgmt.Form3.resources
+C:\Users\priti\Documents\Visual Studio 2010\Projects\sportsclubmgmt\sportsclubmgmt\obj\x86\Debug\sportsclubmgmt.Form4.resources
+C:\Users\priti\Documents\Visual Studio 2010\Projects\sportsclubmgmt\sportsclubmgmt\obj\x86\Debug\sportsclubmgmt.Form5.resources
+C:\Users\priti\Documents\Visual Studio 2010\Projects\sportsclubmgmt\sportsclubmgmt\obj\x86\Debug\sportsclubmgmt.Form8.resources
+C:\Users\priti\Documents\Visual Studio 2010\Projects\sportsclubmgmt\sportsclubmgmt\obj\x86\Debug\sportsclubmgmt.Form6.resources
+C:\Users\priti\Documents\Visual Studio 2010\Projects\sportsclubmgmt\sportsclubmgmt\obj\x86\Debug\sportsclubmgmt.Form7.resources
+C:\Users\priti\Documents\Visual Studio 2010\Projects\sportsclubmgmt\sportsclubmgmt\obj\x86\Debug\sportsclubmgmt.Form9.resources
